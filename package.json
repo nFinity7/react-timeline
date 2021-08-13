@@ -1,0 +1,19 @@
+{
+  "name": "react-timeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Juras",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.17",
+    "react": "^17.0.2",
+    "typescript": "^4.3.5"
+  }
+}
